@@ -126,9 +126,9 @@ export default function Home() {
       </Head>
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to Memes!</h1>
+          <h1 className={styles.title}>Welcome to MemeKart!</h1>
           <div className={styles.description}>
-            Its display of an NFT collection for Meme lovers.
+            Mint the meme you love and be the owner of that meme!
           </div>
           <div className={styles.description}>
             {tokenIdsMinted}/5 have been minted
