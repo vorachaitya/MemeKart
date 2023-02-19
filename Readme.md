@@ -34,7 +34,7 @@
 - [Vatsal Shah](https://github.com/shahvatsal)
 - [Chaitya Vora](https://github.com/vorachaitya)
 
-#### DeMemeify Contract Address: 
+#### MemeKart Contract Address: 
 0xE6584E4f60021afaB3675741dF7088B5e60c820d
 
 #### Hosted Website link: 
