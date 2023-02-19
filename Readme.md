@@ -22,6 +22,7 @@
 - ***ERC721*** tokens which helps in building Non-Fungible tokens on EVM (Ethereum Virtual Machine) compatible blockchains.
 - ***IPFS***(Inter-planetary File system for storing memes and thier metadata
 - ***Vercel*** for hosting our website
+- ***Etherscan*** to view transactions
 
 #### 👨‍💻Team Members
 - [Harshil Shah](https://github.com/harshilshah99)
