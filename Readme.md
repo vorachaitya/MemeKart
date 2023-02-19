@@ -24,13 +24,18 @@
 - ***Vercel*** for hosting our website
 - ***Etherscan*** to view transactions
 
+#### Future Scope
+- > We will make it a dynamic website wherein user can upload the memes that they want and then mint it.
+- > We will use Biconomy for gasless transactions for uploading of the memes.
+- > We will also be implementing Push Protocol to send notifications to the meme lovers about regular updates on our websites.
+
 #### 👨‍💻Team Members
 - [Harshil Shah](https://github.com/harshilshah99)
 - [Vatsal Shah](https://github.com/shahvatsal)
 - [Chaitya Vora](https://github.com/vorachaitya)
 
 #### DeMemeify Contract Address: 
-**_0xE6584E4f60021afaB3675741dF7088B5e60c820d_**
+0xE6584E4f60021afaB3675741dF7088B5e60c820d
 
 #### Hosted Website link: 
-***https://implementing-ipfs.vercel.app/***
+***https://meme-kart-vorachaitya.vercel.app/***
