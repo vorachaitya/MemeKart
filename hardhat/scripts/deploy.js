@@ -2,13 +2,13 @@ const { ethers } = require("hardhat");
 require("dotenv").config({ path: ".env" });
 
 async function main() {
-  const metadataURL = "ipfs://QmWFjnaBp8E4pDWmq9QHVkPCPnwggXTaJZShvnbvYUsGT3";
+  const metadataURL = "ipfs://QmenpejcT8qf1knNYmFBk2cHM8kDg4WrvdpK2BehYNKih6";
 
-  const lw3PunksContract = await ethers.getContractFactory("LW3Punks");
+  const memeContract = await ethers.getContractFactory("Memes");
 
-  const deployedLW3PunksContract = await lw3PunksContract.deploy(metadataURL);
-  await deployedLW3PunksContract.deployed();
-  console.log("LW3Punks Contract Address: ", deployedLW3PunksContract.address);
+  const deployedMemeContract = await memeContract.deploy(metadataURL);
+  await deployedMemeContract.deployed();
+  console.log("Memes Contract Address: ", deployedMemeContract.address);
 }
 
 main()
